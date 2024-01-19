@@ -12,7 +12,9 @@ import sys
 
 
 class BirdCLEFDataset(Dataset):
-    def __init__(self, data, target_sample_rate=CONFIG["sample_rate"], max_time=5, image_transforms=None):
+    def __init__(
+        self, data, target_sample_rate=CONFIG["sample_rate"], max_time=5, image_transforms=None
+    ):
         self.data = data
         self.file_paths = data["filename"].values
         self.target_sample_rate = target_sample_rate
@@ -70,16 +72,25 @@ class BirdCLEFDataset(Dataset):
     def to_mono(self, audio):
         return torch.mean(audio, axis=0)
 
-    @staticmethod
-    def train_test_split(data, test_split_ratio=CONFIG["eval_split_ratio"], stratify=True):
+    def train_test_split(self, test_split_ratio=CONFIG["eval_split_ratio"], stratify=True):
         if stratify:
             train_data, eval_data = train_test_split(
-                data, test_size=0.2, stratify=data[CONFIG["stratify_column"]]
+                self.data, test_size=test_split_ratio, stratify=self.data[CONFIG["stratify_column"]]
             )
         else:
             train_data, eval_data = train_test_split(
-                data,
-                test_size=0.2,
+                self.data,
+                test_size=test_split_ratio,
             )
+        train_dataset = BirdCLEFDataset(
+            data=train_data,
+            target_sample_rate=CONFIG["sample_rate"],
+            max_time=CONFIG["max_time"],
+        )
+        eval_dataset = BirdCLEFDataset(
+            data=eval_data,
+            target_sample_rate=CONFIG["sample_rate"],
+            max_time=CONFIG["max_time"],
+        )
 
-        return train_data, eval_data
+        return train_dataset, eval_dataset
