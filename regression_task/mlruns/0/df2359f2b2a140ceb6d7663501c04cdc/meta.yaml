@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/df2359f2b2a140ceb6d7663501c04cdc/artifacts
+end_time: 1705765648448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df2359f2b2a140ceb6d7663501c04cdc
+run_name: melodic-doe-723
+run_uuid: df2359f2b2a140ceb6d7663501c04cdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705765646346
+status: 3
+tags: []
+user_id: jakub

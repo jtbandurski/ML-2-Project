@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/6fbc1da6a5b340cfb692e2dd19567afd/artifacts
+end_time: 1705753872375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fbc1da6a5b340cfb692e2dd19567afd
+run_name: tasteful-stag-642
+run_uuid: 6fbc1da6a5b340cfb692e2dd19567afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705753865899
+status: 3
+tags: []
+user_id: jakub

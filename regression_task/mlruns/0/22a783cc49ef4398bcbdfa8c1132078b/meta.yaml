@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/22a783cc49ef4398bcbdfa8c1132078b/artifacts
+end_time: 1705765661039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22a783cc49ef4398bcbdfa8c1132078b
+run_name: vaunted-hawk-339
+run_uuid: 22a783cc49ef4398bcbdfa8c1132078b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705765658880
+status: 3
+tags: []
+user_id: jakub

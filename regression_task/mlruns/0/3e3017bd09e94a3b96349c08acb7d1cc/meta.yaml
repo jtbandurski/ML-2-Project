@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/3e3017bd09e94a3b96349c08acb7d1cc/artifacts
+end_time: 1705758812634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e3017bd09e94a3b96349c08acb7d1cc
+run_name: melodic-bass-685
+run_uuid: 3e3017bd09e94a3b96349c08acb7d1cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705758809763
+status: 3
+tags: []
+user_id: jakub

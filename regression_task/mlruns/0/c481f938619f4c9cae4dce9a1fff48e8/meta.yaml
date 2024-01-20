@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/c481f938619f4c9cae4dce9a1fff48e8/artifacts
+end_time: 1705753282880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c481f938619f4c9cae4dce9a1fff48e8
+run_name: bright-sow-469
+run_uuid: c481f938619f4c9cae4dce9a1fff48e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705753277214
+status: 3
+tags: []
+user_id: jakub

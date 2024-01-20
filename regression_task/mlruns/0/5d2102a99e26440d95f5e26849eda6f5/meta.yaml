@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/5d2102a99e26440d95f5e26849eda6f5/artifacts
+end_time: 1705752970820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d2102a99e26440d95f5e26849eda6f5
+run_name: bright-shrimp-744
+run_uuid: 5d2102a99e26440d95f5e26849eda6f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705752970762
+status: 4
+tags: []
+user_id: jakub

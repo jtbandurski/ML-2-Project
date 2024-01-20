@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/8a342d2a087248ee9be755549e237302/artifacts
+end_time: 1705765644369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a342d2a087248ee9be755549e237302
+run_name: sneaky-hog-23
+run_uuid: 8a342d2a087248ee9be755549e237302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705765642388
+status: 3
+tags: []
+user_id: jakub

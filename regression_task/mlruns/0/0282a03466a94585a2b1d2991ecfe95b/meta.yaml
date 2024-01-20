@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/0282a03466a94585a2b1d2991ecfe95b/artifacts
+end_time: 1705758814559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0282a03466a94585a2b1d2991ecfe95b
+run_name: upset-smelt-23
+run_uuid: 0282a03466a94585a2b1d2991ecfe95b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705758812643
+status: 3
+tags: []
+user_id: jakub
