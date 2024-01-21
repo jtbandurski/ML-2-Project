@@ -16,7 +16,7 @@ class BirdCLEFDataset(Dataset):
         self, data, target_sample_rate=CONFIG["sample_rate"], max_time=5, image_transforms=None
     ):
         self.data = data
-        self.file_paths = data["filename"].values
+        self.file_paths = data["filename_tensor"].values
         self.target_sample_rate = target_sample_rate
         num_samples = target_sample_rate * max_time
         self.num_samples = num_samples
@@ -26,33 +26,14 @@ class BirdCLEFDataset(Dataset):
         return len(self.file_paths)
 
     def __getitem__(self, index):
-        filepath = "data/train_audio/" + self.file_paths[index]
-        audio, sample_rate = torchaudio.load(filepath, format="ogg")
-        audio = self.to_mono(audio)
-
-        if sample_rate != self.target_sample_rate:
-            resample = Resample(sample_rate, self.target_sample_rate)
-            audio = resample(audio)
-
-        if audio.shape[0] > self.num_samples:
-            audio = self.crop_audio(audio)
-
-        if audio.shape[0] < self.num_samples:
-            audio = self.pad_audio(audio)
-
-        mel_spectogram = torchaudio.transforms.MelSpectrogram(
-            sample_rate=self.target_sample_rate, n_mels=CONFIG["n_mels"], n_fft=CONFIG["n_fft"]
-        )
-        mel = mel_spectogram(audio)
+        filepath = "data/tensors/" + self.file_paths[index]
+        print(filepath)
+        mel_filepath = os.path.join(filepath)
+        mel = torch.load(mel_filepath)
+        max_val = torch.abs(mel).max()
+        mel_normalized = mel / max_val if max_val > 0 else mel
+        image = torch.stack([mel_normalized, mel_normalized, mel_normalized])
         label = torch.tensor(self.labels[index])
-
-        # Convert to Image
-        image = torch.stack([mel, mel, mel])
-
-        # Normalize Image
-        max_val = torch.abs(image).max()
-        image = image / max_val
-
         return image, label
 
     def encode_labels(self):

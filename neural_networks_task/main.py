@@ -17,11 +17,15 @@ if __name__ == "__main__":
     parser.add_argument("--overfit_single_batch", type=bool, default=False)
     parser.add_argument("--save_results", type=bool, default=False)
     parser.add_argument("--save_plots", type=bool, default=False)
+    parser.add_argument("--train_with_augmentations", type=bool, default=False)
     args = parser.parse_args()
 
-    df = pd.read_csv("data/train_metadata.csv")
-    df = df.groupby("common_name").filter(lambda x: len(x) >= 5)
-    df = df.iloc[:100]
+    if args.train_with_augmentations:
+        df = pd.read_csv("data/train_metadata_with_augmentations.csv")
+        df = df.groupby("common_name").filter(lambda x: len(x) >= 10)
+    else:
+        df = pd.read_csv("data/train_metadata.csv")
+        df = df.groupby("common_name").filter(lambda x: len(x) >= 5)
 
     model = MobileNetV3()
     full_dataset = BirdCLEFDataset(
