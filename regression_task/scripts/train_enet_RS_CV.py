@@ -22,6 +22,10 @@ def eval_metrics(actual, pred):
 
 # sys argv
 n_iter = int(sys.argv[1]) if len(sys.argv) > 1 else 2
+alpha_left = float(sys.argv[2]) if len(sys.argv) > 2 else 0
+alpha_right = float(sys.argv[3]) if len(sys.argv) > 3 else 1
+l1_left = float(sys.argv[4]) if len(sys.argv) > 4 else 0
+l1_right = float(sys.argv[5]) if len(sys.argv) > 5 else 1
 
 warnings.filterwarnings("ignore")
 np.random.seed(12345)
@@ -40,8 +44,8 @@ test_y = test[["quality"]]
 # use randomized search and cross validation
 
 distributions = {
-        'alpha': uniform(loc=0, scale=1),
-        'l1_ratio': uniform(loc=0, scale=1)
+        'alpha': uniform(loc=alpha_left, scale=alpha_right),
+        'l1_ratio': uniform(loc=l1_left, scale=l1_right)
     }
 
 # Create the ElasticNet model

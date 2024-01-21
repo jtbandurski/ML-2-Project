@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/ef2d69b05a074e79a4ec0babceeecc10/artifacts
+end_time: 1705857302680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef2d69b05a074e79a4ec0babceeecc10
+run_name: nervous-ox-380
+run_uuid: ef2d69b05a074e79a4ec0babceeecc10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705857300400
+status: 3
+tags: []
+user_id: jakub

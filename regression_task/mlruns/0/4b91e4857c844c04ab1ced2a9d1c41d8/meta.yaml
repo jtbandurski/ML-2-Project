@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/4b91e4857c844c04ab1ced2a9d1c41d8/artifacts
+end_time: 1705857295905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b91e4857c844c04ab1ced2a9d1c41d8
+run_name: crawling-perch-708
+run_uuid: 4b91e4857c844c04ab1ced2a9d1c41d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705857293566
+status: 3
+tags: []
+user_id: jakub

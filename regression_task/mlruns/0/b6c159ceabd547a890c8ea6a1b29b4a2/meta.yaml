@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/b6c159ceabd547a890c8ea6a1b29b4a2/artifacts
+end_time: 1705857291344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6c159ceabd547a890c8ea6a1b29b4a2
+run_name: overjoyed-doe-946
+run_uuid: b6c159ceabd547a890c8ea6a1b29b4a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705857289130
+status: 3
+tags: []
+user_id: jakub

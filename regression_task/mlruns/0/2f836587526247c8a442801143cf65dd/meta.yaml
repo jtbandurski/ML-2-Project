@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/2f836587526247c8a442801143cf65dd/artifacts
+end_time: 1705857289124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f836587526247c8a442801143cf65dd
+run_name: clumsy-bug-643
+run_uuid: 2f836587526247c8a442801143cf65dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705857286943
+status: 3
+tags: []
+user_id: jakub

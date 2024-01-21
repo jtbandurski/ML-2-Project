@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/242172d1f73d488681264bfa95d93619/artifacts
+end_time: 1705857307408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 242172d1f73d488681264bfa95d93619
+run_name: loud-snail-594
+run_uuid: 242172d1f73d488681264bfa95d93619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705857305097
+status: 3
+tags: []
+user_id: jakub
