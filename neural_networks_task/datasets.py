@@ -56,12 +56,14 @@ class BirdCLEFDataset(Dataset):
     def train_test_split(self, test_split_ratio=CONFIG["eval_split_ratio"], stratify=True):
         if stratify:
             train_data, eval_data = train_test_split(
-                self.data, test_size=test_split_ratio, stratify=self.data[CONFIG["stratify_column"]]
+                self.data,
+                test_size=test_split_ratio,
+                stratify=self.data[CONFIG["stratify_column"]],
+                random_state=42,
             )
         else:
             train_data, eval_data = train_test_split(
-                self.data,
-                test_size=test_split_ratio,
+                self.data, test_size=test_split_ratio, random_state=42
             )
         train_dataset = BirdCLEFDataset(
             data=train_data,
