@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/d0615666911f43c585d8e9518b310168/artifacts
+end_time: 1705870935800
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: d0615666911f43c585d8e9518b310168
+run_name: charming-rat-563
+run_uuid: d0615666911f43c585d8e9518b310168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705870932651
+status: 3
+tags: []
+user_id: jakub

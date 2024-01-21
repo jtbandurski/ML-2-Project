@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/fdef4f973b5a43f0be1b615d81ea99d3/artifacts
+end_time: 1705870486958
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: fdef4f973b5a43f0be1b615d81ea99d3
+run_name: clean-skunk-237
+run_uuid: fdef4f973b5a43f0be1b615d81ea99d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705870486894
+status: 4
+tags: []
+user_id: jakub

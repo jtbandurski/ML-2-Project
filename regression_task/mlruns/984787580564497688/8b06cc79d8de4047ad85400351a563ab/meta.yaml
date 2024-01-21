@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/8b06cc79d8de4047ad85400351a563ab/artifacts
+end_time: 1705871073201
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 8b06cc79d8de4047ad85400351a563ab
+run_name: suave-wolf-522
+run_uuid: 8b06cc79d8de4047ad85400351a563ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871071119
+status: 3
+tags: []
+user_id: jakub

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/329e179ad8d44c8aac3d37a6cdc25e78/artifacts
+end_time: 1705871406026
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 329e179ad8d44c8aac3d37a6cdc25e78
+run_name: bedecked-trout-752
+run_uuid: 329e179ad8d44c8aac3d37a6cdc25e78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871403533
+status: 3
+tags: []
+user_id: jakub

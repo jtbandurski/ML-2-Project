@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688
+creation_time: 1705860125407
+experiment_id: '984787580564497688'
+last_update_time: 1705860125407
+lifecycle_stage: active
+name: xgboost_wine_lrate_ntree

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/1816f6393927461baad123d0d1f6b848/artifacts
+end_time: 1705871124379
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 1816f6393927461baad123d0d1f6b848
+run_name: loud-finch-454
+run_uuid: 1816f6393927461baad123d0d1f6b848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871122283
+status: 3
+tags: []
+user_id: jakub

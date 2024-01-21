@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/a72823ca022948b79b079c7a7a1956cf/artifacts
+end_time: 1705871195963
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: a72823ca022948b79b079c7a7a1956cf
+run_name: rumbling-crab-666
+run_uuid: a72823ca022948b79b079c7a7a1956cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871193785
+status: 3
+tags: []
+user_id: jakub

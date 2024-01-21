@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/2db67d2146624a949c618107091f1b61/artifacts
+end_time: 1705860476918
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 2db67d2146624a949c618107091f1b61
+run_name: peaceful-hare-289
+run_uuid: 2db67d2146624a949c618107091f1b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705860474820
+status: 3
+tags: []
+user_id: jakub

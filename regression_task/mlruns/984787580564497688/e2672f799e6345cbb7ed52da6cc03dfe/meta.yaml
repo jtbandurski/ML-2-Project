@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/e2672f799e6345cbb7ed52da6cc03dfe/artifacts
+end_time: 1705871187436
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: e2672f799e6345cbb7ed52da6cc03dfe
+run_name: funny-calf-12
+run_uuid: e2672f799e6345cbb7ed52da6cc03dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871185338
+status: 3
+tags: []
+user_id: jakub

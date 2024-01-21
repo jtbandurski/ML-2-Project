@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/cc738bee528f4621a0202c03636e0671/artifacts
+end_time: 1705871146683
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: cc738bee528f4621a0202c03636e0671
+run_name: aged-rook-279
+run_uuid: cc738bee528f4621a0202c03636e0671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871144535
+status: 3
+tags: []
+user_id: jakub

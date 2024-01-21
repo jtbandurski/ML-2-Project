@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/cccbc647913d44a68c6be6de90d56bb2/artifacts
+end_time: 1705871107401
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: cccbc647913d44a68c6be6de90d56bb2
+run_name: dazzling-hawk-347
+run_uuid: cccbc647913d44a68c6be6de90d56bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871105271
+status: 3
+tags: []
+user_id: jakub

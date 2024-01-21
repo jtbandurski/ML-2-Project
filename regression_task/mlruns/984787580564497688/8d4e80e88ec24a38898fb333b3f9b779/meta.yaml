@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/8d4e80e88ec24a38898fb333b3f9b779/artifacts
+end_time: 1705871041149
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 8d4e80e88ec24a38898fb333b3f9b779
+run_name: traveling-bass-876
+run_uuid: 8d4e80e88ec24a38898fb333b3f9b779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871038976
+status: 3
+tags: []
+user_id: jakub

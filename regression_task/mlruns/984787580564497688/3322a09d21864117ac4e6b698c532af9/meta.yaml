@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/3322a09d21864117ac4e6b698c532af9/artifacts
+end_time: 1705860133016
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 3322a09d21864117ac4e6b698c532af9
+run_name: defiant-sheep-10
+run_uuid: 3322a09d21864117ac4e6b698c532af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705860130979
+status: 3
+tags: []
+user_id: jakub

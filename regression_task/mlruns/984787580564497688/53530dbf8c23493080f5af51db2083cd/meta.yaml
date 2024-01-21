@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/53530dbf8c23493080f5af51db2083cd/artifacts
+end_time: 1705870836068
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 53530dbf8c23493080f5af51db2083cd
+run_name: chill-elk-893
+run_uuid: 53530dbf8c23493080f5af51db2083cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705870833042
+status: 3
+tags: []
+user_id: jakub

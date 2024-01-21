@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/86f4091abb2048658d1be8fd311c30e7/artifacts
+end_time: 1705860451738
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 86f4091abb2048658d1be8fd311c30e7
+run_name: amusing-owl-728
+run_uuid: 86f4091abb2048658d1be8fd311c30e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705860449380
+status: 3
+tags: []
+user_id: jakub

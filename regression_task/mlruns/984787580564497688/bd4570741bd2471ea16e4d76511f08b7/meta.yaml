@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/bd4570741bd2471ea16e4d76511f08b7/artifacts
+end_time: 1705871168162
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: bd4570741bd2471ea16e4d76511f08b7
+run_name: kindly-flea-332
+run_uuid: bd4570741bd2471ea16e4d76511f08b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871166044
+status: 3
+tags: []
+user_id: jakub

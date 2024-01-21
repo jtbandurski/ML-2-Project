@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/f61d60ee9ea14887bb84a4070092e9df/artifacts
+end_time: 1705871103118
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: f61d60ee9ea14887bb84a4070092e9df
+run_name: efficient-crab-749
+run_uuid: f61d60ee9ea14887bb84a4070092e9df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871100925
+status: 3
+tags: []
+user_id: jakub

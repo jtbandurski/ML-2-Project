@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/913ff28991f14ff899987c0144570e61/artifacts
+end_time: 1705871060483
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 913ff28991f14ff899987c0144570e61
+run_name: dapper-stork-370
+run_uuid: 913ff28991f14ff899987c0144570e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871058216
+status: 3
+tags: []
+user_id: jakub

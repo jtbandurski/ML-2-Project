@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/9b08e7242d5c4f13b7cf9469d29ded58/artifacts
+end_time: 1705871401285
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 9b08e7242d5c4f13b7cf9469d29ded58
+run_name: worried-bug-513
+run_uuid: 9b08e7242d5c4f13b7cf9469d29ded58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871399133
+status: 3
+tags: []
+user_id: jakub

@@ -1,0 +1,31 @@
+artifact_path: model_learning_rate_n_estimators
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.10.11
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 2.0.3
+mlflow_version: 2.9.2
+model_size_bytes: 1566756
+model_uuid: a25e346ee9f6436eae99b9e6c57f9925
+run_id: 9bba1d7d6e1a4315bb7f7fee8824d7be
+signature:
+  inputs: '[{"type": "long", "name": "id"}, {"type": "double", "name": "alcohol"},
+    {"type": "double", "name": "chlorides"}, {"type": "double", "name": "citric acid"},
+    {"type": "double", "name": "density"}, {"type": "double", "name": "feat04"}, {"type":
+    "double", "name": "feat07"}, {"type": "double", "name": "fixed acidity"}, {"type":
+    "double", "name": "free sulfur dioxide"}, {"type": "double", "name": "pH"}, {"type":
+    "double", "name": "residual sugar"}, {"type": "double", "name": "sulphates"},
+    {"type": "double", "name": "total sulfur dioxide"}, {"type": "double", "name":
+    "volatile acidity"}]'
+  outputs: '[{"type": "double", "name": "quality"}]'
+  params: null
+utc_time_created: '2024-01-21 18:07:32.666571'

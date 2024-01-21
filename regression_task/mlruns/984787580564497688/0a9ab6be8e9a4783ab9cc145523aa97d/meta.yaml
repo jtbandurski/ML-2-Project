@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/0a9ab6be8e9a4783ab9cc145523aa97d/artifacts
+end_time: 1705860434897
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 0a9ab6be8e9a4783ab9cc145523aa97d
+run_name: melodic-hare-268
+run_uuid: 0a9ab6be8e9a4783ab9cc145523aa97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705860432058
+status: 3
+tags: []
+user_id: jakub

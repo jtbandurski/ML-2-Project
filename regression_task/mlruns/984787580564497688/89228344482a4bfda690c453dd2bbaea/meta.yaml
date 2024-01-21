@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/89228344482a4bfda690c453dd2bbaea/artifacts
+end_time: 1705871047486
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 89228344482a4bfda690c453dd2bbaea
+run_name: sincere-carp-537
+run_uuid: 89228344482a4bfda690c453dd2bbaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871045410
+status: 3
+tags: []
+user_id: jakub

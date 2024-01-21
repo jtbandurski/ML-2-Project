@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705858941996
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1705859053659
+name: Best_Elastic_Net
+run_id: 56b372169d2c4f17b489b5376ca4e95b
+run_link: ''
+source: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/56b372169d2c4f17b489b5376ca4e95b/artifacts/model_alpha_l1_ratio
+status: READY
+status_message: null
+storage_location: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/56b372169d2c4f17b489b5376ca4e95b/artifacts/model_alpha_l1_ratio
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/de1a938d7df14676a9ea5b012347afb3/artifacts
+end_time: 1705871092481
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: de1a938d7df14676a9ea5b012347afb3
+run_name: placid-conch-530
+run_uuid: de1a938d7df14676a9ea5b012347afb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871090265
+status: 3
+tags: []
+user_id: jakub

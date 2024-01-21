@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/07ea4abf1d084472bffa87dd3747a4d4/artifacts
+end_time: 1705860472715
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 07ea4abf1d084472bffa87dd3747a4d4
+run_name: receptive-robin-785
+run_uuid: 07ea4abf1d084472bffa87dd3747a4d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705860470504
+status: 3
+tags: []
+user_id: jakub

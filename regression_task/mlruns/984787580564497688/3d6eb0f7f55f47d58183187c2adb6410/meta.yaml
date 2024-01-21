@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/3d6eb0f7f55f47d58183187c2adb6410/artifacts
+end_time: 1705871166037
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 3d6eb0f7f55f47d58183187c2adb6410
+run_name: gaudy-doe-209
+run_uuid: 3d6eb0f7f55f47d58183187c2adb6410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871163839
+status: 3
+tags: []
+user_id: jakub

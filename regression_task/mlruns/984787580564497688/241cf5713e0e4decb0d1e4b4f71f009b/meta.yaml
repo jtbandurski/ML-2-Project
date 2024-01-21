@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/241cf5713e0e4decb0d1e4b4f71f009b/artifacts
+end_time: 1705871009250
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 241cf5713e0e4decb0d1e4b4f71f009b
+run_name: indecisive-deer-730
+run_uuid: 241cf5713e0e4decb0d1e4b4f71f009b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871007169
+status: 3
+tags: []
+user_id: jakub

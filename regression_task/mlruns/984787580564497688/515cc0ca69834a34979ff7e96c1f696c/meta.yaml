@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/515cc0ca69834a34979ff7e96c1f696c/artifacts
+end_time: 1705871024003
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: 515cc0ca69834a34979ff7e96c1f696c
+run_name: monumental-wolf-640
+run_uuid: 515cc0ca69834a34979ff7e96c1f696c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871021863
+status: 3
+tags: []
+user_id: jakub

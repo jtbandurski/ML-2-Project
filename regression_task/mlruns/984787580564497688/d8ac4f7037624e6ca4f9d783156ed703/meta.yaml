@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/d8ac4f7037624e6ca4f9d783156ed703/artifacts
+end_time: 1705871090256
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: d8ac4f7037624e6ca4f9d783156ed703
+run_name: gifted-sow-456
+run_uuid: d8ac4f7037624e6ca4f9d783156ed703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871088056
+status: 3
+tags: []
+user_id: jakub

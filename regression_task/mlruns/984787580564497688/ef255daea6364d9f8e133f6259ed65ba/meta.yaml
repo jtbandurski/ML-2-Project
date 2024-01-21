@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/ef255daea6364d9f8e133f6259ed65ba/artifacts
+end_time: 1705871159557
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: ef255daea6364d9f8e133f6259ed65ba
+run_name: placid-crab-228
+run_uuid: ef255daea6364d9f8e133f6259ed65ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871157425
+status: 3
+tags: []
+user_id: jakub

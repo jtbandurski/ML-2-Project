@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/984787580564497688/d55aa8fea0364966a94a8a73cca4e246/artifacts
+end_time: 1705871157417
+entry_point_name: ''
+experiment_id: '984787580564497688'
+lifecycle_stage: active
+run_id: d55aa8fea0364966a94a8a73cca4e246
+run_name: salty-ape-711
+run_uuid: d55aa8fea0364966a94a8a73cca4e246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705871155369
+status: 3
+tags: []
+user_id: jakub
