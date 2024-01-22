@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/21bf94c38d7747a4ba21a0b2fc38d984/artifacts
+end_time: 1705953729309
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 21bf94c38d7747a4ba21a0b2fc38d984
+run_name: fun-hen-814
+run_uuid: 21bf94c38d7747a4ba21a0b2fc38d984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705953727512
+status: 4
+tags: []
+user_id: jakub

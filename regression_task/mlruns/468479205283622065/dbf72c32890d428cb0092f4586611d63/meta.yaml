@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/dbf72c32890d428cb0092f4586611d63/artifacts
+end_time: 1705954774294
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: dbf72c32890d428cb0092f4586611d63
+run_name: welcoming-turtle-840
+run_uuid: dbf72c32890d428cb0092f4586611d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705954773924
+status: 4
+tags: []
+user_id: jakub

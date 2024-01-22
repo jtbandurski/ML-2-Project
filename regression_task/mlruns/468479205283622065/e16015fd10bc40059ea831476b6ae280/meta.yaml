@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/e16015fd10bc40059ea831476b6ae280/artifacts
+end_time: 1705954983074
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: e16015fd10bc40059ea831476b6ae280
+run_name: smiling-steed-595
+run_uuid: e16015fd10bc40059ea831476b6ae280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705954980832
+status: 3
+tags: []
+user_id: jakub

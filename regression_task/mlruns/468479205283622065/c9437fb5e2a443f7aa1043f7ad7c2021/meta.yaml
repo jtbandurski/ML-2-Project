@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/c9437fb5e2a443f7aa1043f7ad7c2021/artifacts
+end_time: 1705955458530
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: c9437fb5e2a443f7aa1043f7ad7c2021
+run_name: burly-donkey-611
+run_uuid: c9437fb5e2a443f7aa1043f7ad7c2021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705955447477
+status: 3
+tags: []
+user_id: jakub

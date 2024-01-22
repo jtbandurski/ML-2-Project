@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/ae309104efa14f52beabfdaff74ee58d/artifacts
+end_time: 1705953991506
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: ae309104efa14f52beabfdaff74ee58d
+run_name: unique-duck-748
+run_uuid: ae309104efa14f52beabfdaff74ee58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705953989658
+status: 3
+tags: []
+user_id: jakub

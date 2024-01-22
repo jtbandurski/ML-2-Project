@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/aff5dacab9f247cf8405a724d24489da/artifacts
+end_time: 1705953919013
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: aff5dacab9f247cf8405a724d24489da
+run_name: persistent-robin-7
+run_uuid: aff5dacab9f247cf8405a724d24489da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705953917163
+status: 4
+tags: []
+user_id: jakub

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/88e635b6b8b8476c80a61ff79d6e9000/artifacts
+end_time: 1705954177827
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 88e635b6b8b8476c80a61ff79d6e9000
+run_name: marvelous-tern-294
+run_uuid: 88e635b6b8b8476c80a61ff79d6e9000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705954176031
+status: 3
+tags: []
+user_id: jakub

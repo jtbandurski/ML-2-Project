@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/d257345fdfc74effb6bbb044d896b50e/artifacts
+end_time: 1705955003857
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: d257345fdfc74effb6bbb044d896b50e
+run_name: exultant-snake-982
+run_uuid: d257345fdfc74effb6bbb044d896b50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705955001017
+status: 3
+tags: []
+user_id: jakub

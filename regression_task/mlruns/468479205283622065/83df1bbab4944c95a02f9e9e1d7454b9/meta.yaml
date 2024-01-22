@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/83df1bbab4944c95a02f9e9e1d7454b9/artifacts
+end_time: 1705955020130
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 83df1bbab4944c95a02f9e9e1d7454b9
+run_name: monumental-doe-523
+run_uuid: 83df1bbab4944c95a02f9e9e1d7454b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705955016717
+status: 3
+tags: []
+user_id: jakub

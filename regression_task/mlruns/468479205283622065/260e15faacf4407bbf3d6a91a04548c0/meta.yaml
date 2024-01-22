@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/260e15faacf4407bbf3d6a91a04548c0/artifacts
+end_time: 1705955039967
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 260e15faacf4407bbf3d6a91a04548c0
+run_name: polite-eel-348
+run_uuid: 260e15faacf4407bbf3d6a91a04548c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705955034777
+status: 3
+tags: []
+user_id: jakub

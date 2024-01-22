@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/6ee5c0bff70848678ec1c7171021baf1/artifacts
+end_time: 1705955001008
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 6ee5c0bff70848678ec1c7171021baf1
+run_name: invincible-deer-611
+run_uuid: 6ee5c0bff70848678ec1c7171021baf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705954998182
+status: 3
+tags: []
+user_id: jakub

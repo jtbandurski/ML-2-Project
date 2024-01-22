@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/2409cc995c414519b96c601114e672f1/artifacts
+end_time: 1705953998739
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 2409cc995c414519b96c601114e672f1
+run_name: whimsical-bear-116
+run_uuid: 2409cc995c414519b96c601114e672f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705953997046
+status: 3
+tags: []
+user_id: jakub

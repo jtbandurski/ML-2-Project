@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/d5fd3bb5c87d42cc9f99029e9c151369/artifacts
+end_time: 1705954187902
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: d5fd3bb5c87d42cc9f99029e9c151369
+run_name: mysterious-mare-1
+run_uuid: d5fd3bb5c87d42cc9f99029e9c151369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705954186665
+status: 3
+tags: []
+user_id: jakub

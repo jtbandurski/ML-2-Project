@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/7202c523b2fe41ed84c4da749ce4a3b0/artifacts
+end_time: 1705953637330
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 7202c523b2fe41ed84c4da749ce4a3b0
+run_name: painted-duck-451
+run_uuid: 7202c523b2fe41ed84c4da749ce4a3b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705953635510
+status: 4
+tags: []
+user_id: jakub

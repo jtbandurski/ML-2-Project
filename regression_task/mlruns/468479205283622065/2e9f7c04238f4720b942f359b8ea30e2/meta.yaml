@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/2e9f7c04238f4720b942f359b8ea30e2/artifacts
+end_time: 1705954179507
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 2e9f7c04238f4720b942f359b8ea30e2
+run_name: blushing-swan-804
+run_uuid: 2e9f7c04238f4720b942f359b8ea30e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705954177837
+status: 3
+tags: []
+user_id: jakub

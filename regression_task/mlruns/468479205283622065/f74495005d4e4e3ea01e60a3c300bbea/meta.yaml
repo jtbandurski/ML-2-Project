@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/f74495005d4e4e3ea01e60a3c300bbea/artifacts
+end_time: 1705955044072
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: f74495005d4e4e3ea01e60a3c300bbea
+run_name: efficient-eel-124
+run_uuid: f74495005d4e4e3ea01e60a3c300bbea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705955039989
+status: 3
+tags: []
+user_id: jakub

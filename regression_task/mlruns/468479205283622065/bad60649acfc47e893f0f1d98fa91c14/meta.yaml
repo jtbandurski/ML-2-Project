@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/bad60649acfc47e893f0f1d98fa91c14/artifacts
+end_time: 1705954184191
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: bad60649acfc47e893f0f1d98fa91c14
+run_name: handsome-ox-519
+run_uuid: bad60649acfc47e893f0f1d98fa91c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705954182852
+status: 3
+tags: []
+user_id: jakub

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/06080d8189d944bb86297540102dd3e8/artifacts
+end_time: 1705955013409
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 06080d8189d944bb86297540102dd3e8
+run_name: youthful-fawn-493
+run_uuid: 06080d8189d944bb86297540102dd3e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705955010295
+status: 3
+tags: []
+user_id: jakub

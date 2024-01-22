@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/468479205283622065/00db9d738a6a474798b4cbc40fe286ab/artifacts
+end_time: 1705955500429
+entry_point_name: ''
+experiment_id: '468479205283622065'
+lifecycle_stage: active
+run_id: 00db9d738a6a474798b4cbc40fe286ab
+run_name: enthused-kit-973
+run_uuid: 00db9d738a6a474798b4cbc40fe286ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705955481985
+status: 3
+tags: []
+user_id: jakub

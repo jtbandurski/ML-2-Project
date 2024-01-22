@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705942907862
+current_stage: None
+description: ''
+last_updated_timestamp: 1705942907862
+name: lowest_overfitting_Elastic_net
+run_id: 2f836587526247c8a442801143cf65dd
+run_link: ''
+source: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/2f836587526247c8a442801143cf65dd/artifacts/model_alpha_l1_ratio
+status: READY
+status_message: null
+storage_location: file:///C:/Users/jakub/OneDrive/Documents/DSBA_OneDrive/3sem/ML2/ML-2-Project/regression_task/mlruns/0/2f836587526247c8a442801143cf65dd/artifacts/model_alpha_l1_ratio
+user_id: null
+version: 1
