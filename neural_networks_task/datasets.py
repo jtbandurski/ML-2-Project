@@ -11,7 +11,7 @@ import librosa
 import sys
 
 
-class BirdCLEFDataset(Dataset):
+class CustomDataset(Dataset):
     def __init__(
         self, data, target_sample_rate=CONFIG["sample_rate"], max_time=5, image_transforms=None
     ):
@@ -27,7 +27,6 @@ class BirdCLEFDataset(Dataset):
 
     def __getitem__(self, index):
         filepath = "data/tensors/" + self.file_paths[index]
-        print(filepath)
         mel_filepath = os.path.join(filepath)
         mel = torch.load(mel_filepath)
         max_val = torch.abs(mel).max()
@@ -65,12 +64,12 @@ class BirdCLEFDataset(Dataset):
             train_data, eval_data = train_test_split(
                 self.data, test_size=test_split_ratio, random_state=42
             )
-        train_dataset = BirdCLEFDataset(
+        train_dataset = CustomDataset(
             data=train_data,
             target_sample_rate=CONFIG["sample_rate"],
             max_time=CONFIG["max_time"],
         )
-        eval_dataset = BirdCLEFDataset(
+        eval_dataset = CustomDataset(
             data=eval_data,
             target_sample_rate=CONFIG["sample_rate"],
             max_time=CONFIG["max_time"],

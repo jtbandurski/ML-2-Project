@@ -2,7 +2,7 @@ from utils import loss_fn, CONFIG, DEVICE
 from tqdm import tqdm
 import torch
 from sklearn.metrics import f1_score, accuracy_score
-from datasets import BirdCLEFDataset
+from datasets import CustomDataset
 from torch.utils.data import DataLoader
 from sklearn.metrics import (
     accuracy_score,

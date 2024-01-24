@@ -1,4 +1,4 @@
-from model import MobileNetV3
+from model import MobileNetV3, EfficientNet
 import torch
 from utils import CONFIG, DEVICE
 from torch.optim import Adam
@@ -6,7 +6,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import pandas as pd
 from trainer import Trainer
-from datasets import BirdCLEFDataset
+from datasets import CustomDataset
 from argparse import ArgumentParser
 import os
 import numpy as np
@@ -27,8 +27,8 @@ if __name__ == "__main__":
         df = pd.read_csv("data/train_metadata.csv")
         df = df.groupby("common_name").filter(lambda x: len(x) >= 5)
 
-    model = MobileNetV3()
-    full_dataset = BirdCLEFDataset(
+    model = MobileNetV3(num_classes=len(set(df["primary_label"])))
+    full_dataset = CustomDataset(
         df, target_sample_rate=CONFIG["sample_rate"], max_time=CONFIG["max_time"]
     )
     train_dataset, eval_dataset = full_dataset.train_test_split(stratify=True)
