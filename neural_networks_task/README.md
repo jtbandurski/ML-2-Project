@@ -1,8 +1,7 @@
 
 # Classification of bird chirps
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-pjsmf&psig=AOvVaw3yPiDBIgMFKNGy37agGC5a&ust=1706191865000000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDGxZqa9oMDFQAAAAAdAAAAABAD![image](https://github.com/jtbandurski/ML-2-Project/assets/80387074/e7f73a3e-5caf-4e71-b99a-ef8efd8f33ee)
-
+![png-clipart-common-ostrich-cartoon-drawing-graphy-funny-animals-photography-cartoon](https://github.com/jtbandurski/ML-2-Project/assets/80387074/d0d4da20-f92e-45e0-98a0-ae22df5672d7)
 
 ## Description
 This is an application of Convolutional Neural Networks (EfficientNet and MobileNet) on the binary classification problem. The task is to classify 264 different species of birds. Finally, I've decided to filter out classes for which we did not have more than 5 observations, otherwise stratified sampling could not be performed.
@@ -25,3 +24,8 @@ python main.py --overfit_single_batch=True
 ```
 
 **Note**: I had to prepare augmentations before running code and then I've added them to the corresponding folders of species. You also have to convert audio files to tensors. To do both things, just run the `augmentations_generation.ipynb` from notebooks.
+
+
+## Glimpse of results
+
+![output](https://github.com/jtbandurski/ML-2-Project/assets/80387074/8b92130d-b8ef-443a-a66c-2e16858cc00c)
