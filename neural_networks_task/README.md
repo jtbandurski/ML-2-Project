@@ -1,7 +1,8 @@
 
 # Classification of bird chirps
 
-![png-clipart-common-ostrich-cartoon-drawing-graphy-funny-animals-photography-cartoon](https://github.com/jtbandurski/ML-2-Project/assets/80387074/d0d4da20-f92e-45e0-98a0-ae22df5672d7)
+![istockphoto-1140288329-612x612](https://github.com/jtbandurski/ML-2-Project/assets/80387074/750af836-702f-4148-9888-9fd7b17308ca)
+
 
 ## Description
 This is an application of Convolutional Neural Networks (EfficientNet and MobileNet) on the binary classification problem. The task is to classify 264 different species of birds. Finally, I've decided to filter out classes for which we did not have more than 5 observations, otherwise stratified sampling could not be performed.
