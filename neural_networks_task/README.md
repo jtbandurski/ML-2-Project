@@ -1,6 +1,6 @@
 # Classification of bird chirps
 <p align="center">
-  <img src="http://some_place.com/image.png](https://github.com/jtbandurski/ML-2-Project/assets/80387074/750af836-702f-4148-9888-9fd7b17308ca)" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fsmall-bird-flying&psig=AOvVaw1eJwef_23zpxHejfrGyXwA&ust=1706192110394000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODvxYib9oMDFQAAAAAdAAAAABAD" />
 </p>
 
 ## Description
